@@ -1,1 +1,5 @@
 .csv
+bigdata/*
+bigdata
+.vscode
+.vscode/*
